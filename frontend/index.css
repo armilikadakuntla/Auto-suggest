@@ -1,3 +1,20 @@
 h1{
-    color:antiquewhite;
+    color:rgb(119, 75, 17);
+}
+#p2{
+    color:rgb(233, 101, 6);
+}
+#p1{
+    color:rgb(247, 153, 86);
+}
+
+#Home-intro{
+    text-align:center;
+    /*border:3px;
+    border-color:black;
+    border-style: solid;*/
+    border:3px solid black;
+}
+#Home-intro:hover{
+    background-color:rgb(214, 193, 193);
 }
