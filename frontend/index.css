@@ -14,7 +14,7 @@ h1{
     border-color:black;
     border-style: solid;*/
     border:3px solid black;
-    background-color: rgb(240, 164, 208);
+    background-color: rgb(252, 243, 248);
 }
 #Home-intro:hover{
     background-color:rgb(39, 5, 5);
@@ -32,4 +32,24 @@ margin:0px 5px;
 color:rgb(142, 229, 229);
 text-decoration:none;
 /*no underlines under text*/
+}
+#card{
+    text-align:center;
+}
+#card-img{
+    border:3px auto black;
+    height:250px;
+}
+#card-name{
+    text-align: center;
+    -webkit-text-fill-color: rgb(7, 95, 95);
+
+}
+#card-gender{
+    text-align:center;
+    -webkit-text-fill-color: deeppink;
+}
+#Toggle{
+    text-align:center;
+    -webkit-text-fill-color: rgb(104, 218, 142);
 }
