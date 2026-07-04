@@ -35,6 +35,12 @@ text-decoration:none;
 }
 #card{
     text-align:center;
+    align-items:center;
+    width:430px;
+    height:500px;
+    border:3px solid black;
+    margin:3px auto;
+    border-radius: 8px;
 }
 #card-img{
     border:3px auto black;
@@ -51,5 +57,9 @@ text-decoration:none;
 }
 #Toggle{
     text-align:center;
+    
     -webkit-text-fill-color: rgb(104, 218, 142);
+}
+button{
+    width:100%;
 }
